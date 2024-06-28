@@ -1,0 +1,1 @@
+Classification of Food images, https://github.com/hugohiraoka/Food_Image_Classification, https://github.com/hugohiraoka/Food_Image_Classification/blob/main/Readme.md
